@@ -23,3 +23,12 @@ C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenDAL\obj\Debug\SomerenDAL.csp
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenDAL\obj\Debug\SomerenDAL.dll
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenDAL\obj\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\bin\Debug\SomerenDAL.dll.config
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\bin\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\bin\Debug\SomerenDAL.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\obj\Debug\SomerenDAL.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\obj\Debug\SomerenDAL.csproj.CopyComplete
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\obj\Debug\SomerenDAL.dll
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenDAL\obj\Debug\SomerenDAL.pdb

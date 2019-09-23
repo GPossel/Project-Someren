@@ -14,3 +14,9 @@ C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenModel\obj\Debug\SomerenModel
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenModel\obj\Debug\SomerenModel.dll
 C:\Users\gentl\Desktop\Project Periode 3\Zip\SomerenModel\obj\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\bin\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\bin\Debug\SomerenModel.pdb
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\obj\Debug\SomerenModel.csprojAssemblyReference.cache
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\obj\Debug\SomerenModel.csproj.CoreCompileInputs.cache
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\obj\Debug\SomerenModel.dll
+C:\Users\gentl\Desktop\Project Periode 3\Project-Someren\Project-Someren\Zip\SomerenModel\obj\Debug\SomerenModel.pdb

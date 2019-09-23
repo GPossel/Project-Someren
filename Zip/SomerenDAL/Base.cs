@@ -22,7 +22,15 @@ namespace SomerenDAL
         {
             if (conn.State == ConnectionState.Closed || conn.State == ConnectionState.Broken)
             {
-                conn.Open();
+                try
+                {
+                    conn.Open();
+                }
+                catch (SqlException ex)
+                {
+                    string error = ex.Message.ToString();
+                }
+               
             }
             return conn;
         }
